@@ -6,11 +6,11 @@ Repository containing examples of data science projects completed for both acade
 
 * Anomaly Detection of Exotic Particle Physics Events at the Large Hadron Collider:
   * Designed an anomaly detection algorithm which is trained on a 'normal physics' dataset in order to flag up interesting (exotic) events from the Beyond the Standard Model of Physics.
-  * This was performed using a robust AutoEncoder, trained on particle kinematics.
+  * This was performed using a robust Autoencoder, trained on particle kinematics.
 * Machine Learning Classification for Exotic Particle Physics:
-  * Employed an ML Classifier to determine whether it can improve the sensitivity of the search for exotic particles.
-  * This was performed via Hypothesis testing and Neural Networks.
+  * Employed a Neural Network Classifier to determine whether it can improve the sensitivity of the search for exotic particles.
+    Performed via Hypothesis testing.
 * Parameter Estimation of Particle Decay:
-  *  Determined the expected statisticaal precision of measured parameters given 10 000 events using toy Monte Carlo event generation and maximum likelihood fits.
-  *  Determined whether there was a possible bias on the data/paramaters due to an unaccounted for background.
+  *  Determined the expected statistical precision of measured parameters given 10,000 events using toy Monte Carlo event generation and maximum likelihood estimation of a probabilistic model.
+  *  Determined whether there was a possible bias on the data/parameters due to an unaccounted for background.
 
